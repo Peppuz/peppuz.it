@@ -2,6 +2,7 @@
 <html style="">
 
 <head>
+    <title> P~Z</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-wEmeIV1mKuiNpC+IOBjI7aAzPcEZeedi5yW5f2yOq55WWLwNGmvvx4Um1vskeMj0" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-p34f1UUtsS3wqzfto5wAAmdvj+osOnFyQFpp4Ua3gs/ZVWx6oOypYoCJhGGScy+8" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://use.typekit.net/jdu5pai.css">
@@ -9,9 +10,15 @@
     <script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
 
     <meta name="viewport" content="width=100%, initial-scale=1.0">
+
+    <style>
+        :root{
+
+        }
+    </style>
 </head>
 
-<body style="color:white">
+<body style="color:black">
     <div class="">
         <img src="assets/banner.PNG" class="img-fluid text-center" style="position:absolute; padding:0;margin:0; top:0px; opacity:.3; z-index:-1 " alt="">
         <div class="">
@@ -21,7 +28,7 @@
                 <img src="icon.png" class="img-fluid text-center d-block mx-auto" alt="">
 
                 <div class="my-5 text-center">
-                    <h1 class="text-left" style="font-size: 3rem ;font-weight: bold; color:#00ACC1;">P tilde Z</h1>
+                    <h1 class="text-left" style="font-size: 3rem ;font-weight: bold; color:#00ACC1;">P ~ Z</h1>
                 </div>
 
                 <div class="text-center ">
@@ -31,9 +38,7 @@
 
             <!-- CODIN -->
             <div class="text-center col-10 offset-1 my-5 p-5 " style="border-radius: 15px; border: 1px solid transparent; background-color:#00ACC1; box-shadow: 0px 0px 80px #00000029;">
-                <img src="assets/passaggi.svg" class="img-fluid mb-4" alt="">
-                <h3 style="font-size:2rem; letter-spacing: 0px;">Quattro semplici passaggi.</h3>
-                <p class="col-10 offset-1 text-center mt-3">Orari STP semplifica la ricerca dei bus di cui hai bisogno. <br> Dimentica le tabelle PDF. <br> Partenza. Destinazione. Orario. Fermate <br> Tutto qui.</p>
+            <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/748104004&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/peppu_z" title="Peppuz" target="_blank" style="color: #cccccc; text-decoration: none;">Peppuz</a> · <a href="https://soundcloud.com/peppu_z/ghost" title="Ghost" target="_blank" style="color: #cccccc; text-decoration: none;">Ghost</a></div>
             </div>
 
             <!-- MUSIC -->

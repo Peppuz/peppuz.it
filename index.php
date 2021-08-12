@@ -12,15 +12,13 @@
     <meta name="viewport" content="width=100%, initial-scale=1.0">
 
     <style>
-        :root{
-
-        }
+        :root {}
     </style>
 </head>
 
 <body style="color:black">
     <div class="">
-        <img src="assets/banner.PNG" class="img-fluid text-center" style="position:absolute; padding:0;margin:0; top:0px; opacity:.3; z-index:-1 " alt="">
+        <img src="assets/pz_logo_nobg.png" class="img-fluid text-center" style="position:absolute; padding:0;margin:0; top:0px; opacity:.3; z-index:-1 " alt="">
         <div class="">
 
             <!-- TOP -->
@@ -38,7 +36,8 @@
 
             <!-- CODIN -->
             <div class="text-center col-10 offset-1 my-5 p-5 " style="border-radius: 15px; border: 1px solid transparent; background-color:#00ACC1; box-shadow: 0px 0px 80px #00000029;">
-            <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/748104004&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/peppu_z" title="Peppuz" target="_blank" style="color: #cccccc; text-decoration: none;">Peppuz</a> · <a href="https://soundcloud.com/peppu_z/ghost" title="Ghost" target="_blank" style="color: #cccccc; text-decoration: none;">Ghost</a></div>
+                <iframe width="100%" height="100" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/748104004&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+                    
             </div>
 
             <!-- MUSIC -->
@@ -99,17 +98,17 @@
                 <div>
                     <h3 class="col-12" style="color:#28c5d1; font-size:2rem"> Hai una domanda da farci?</h3>
                     <p class="col-10 offset-1 text-center" style="color:#28c5d1">Contattaci all'indirizzo di posta elettronica </p>
-                        <br>
-                        <br>
-                        <div style="display: flex;justify-content: center;">
-                          <div style="border:solid 1px #28c5d1; border-radius:15px; width: -moz-fit-content; width: fit-content;" class="p-3">
+                    <br>
+                    <br>
+                    <div style="display: flex;justify-content: center;">
+                        <div style="border:solid 1px #28c5d1; border-radius:15px; width: -moz-fit-content; width: fit-content;" class="p-3">
                             <i style="color:#28c5d1; margin-right:5px; position:absolute" data-feather="mail"></i>
                             <a style="color:#00ACC1; text-decoration:solid; margin-left:30" href="mailto:svdevteam72019@gmail.com">svdevteam72019@gmail.com</a>
-                          </div>
                         </div>
-                        <br>
-                        <br>
-                        <p class="col-10 offset-1 text-center" style="color:#28c5d1">Attenzione, richieste riguardanti il servizio di trasporto verranno ignorate. <br>
+                    </div>
+                    <br>
+                    <br>
+                    <p class="col-10 offset-1 text-center" style="color:#28c5d1">Attenzione, richieste riguardanti il servizio di trasporto verranno ignorate. <br>
                         Contattate la società responsabile del servizio di trasporto pubblico.
                     </p>
                 </div>
@@ -123,16 +122,6 @@
 
 
         <label class="w-100 text-center" style="color:#b6edf1;font-weight:bold; font-size:1rem">POWERED BY SVDEVTEAM</label>
-        <!--
-        <div class="col-6 offset-3 mt-5 text-justified">
-            <p style="font-size:1rem">
-                Dopo un sacco di vostre mail dove ci chiedevate che fine avesse fatto Orari STP, abbiamo deciso di recuperare il codice e di rimetterlo a vostra disposizione!
-                Orari STP, non per nostro volere, da questo momento torna ad essere un applicazione indipendente per consultare gli orari dei pullman nella provincia di Brindisi. Purtroppo per noi questa applicazione non rappresenta una fonte di guadagno, quindi nel corso dell'ultimo anno abbiamo preferito dare precedenza ai nostri studi e ad altri progetti.
-                Attualmente stiamo terminando le ultime fasi di testing quindi a breve l'applicazione si aggiornerà spontaneamente rivelandoti la nuova versione di Orari STP.
-                Grazie a tutti per le belle parole che ci avete mandato! <br> Manuel, Giuseppe & Alberto
-            </p>
-
-        </div> -->
         <br>
         <br>
         <br>
@@ -140,6 +129,7 @@
     </div>
 
     <script>
+        // icons replacing by feather
         feather.replace()
     </script>
 
